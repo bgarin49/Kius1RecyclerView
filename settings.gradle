@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Kius1.RecyclerView'
