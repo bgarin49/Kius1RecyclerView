@@ -33,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void addData() {
         KeluargaArrayList = new ArrayList<>();
-        KeluargaArrayList.add(new Keluarga("BudiAnto", "Ayah", R.drawable.Ayah));
-        KeluargaArrayList.add(new Keluarga("Budi Garinanto", "Anak", R.drawable.Saya));
+        KeluargaArrayList.add(new Keluarga("BudiAnto", "Ayah", R.drawable.ayah));
+        KeluargaArrayList.add(new Keluarga("Budi Garinanto", "Anak", R.drawable.saya));
     }
 
 }
